@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/htk/Documents/Unreal Projects/Blockout/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/htk/Documents/Unreal Projects/Blockout/Content/StarterContent/Materials/Gray.uasset",
+				"C:/Users/htk/Documents/Unreal Projects/Blockout/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"C:/Users/htk/Documents/Unreal Projects/Blockout/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/htk/Documents/Unreal Projects/Blockout/Content/StarterContent/Materials/M_Basic_Floor.uasset",
+				"C:/Users/htk/Documents/Unreal Projects/Blockout/Content/StarterContent/Props/SM_Stairs.uasset",
+				"C:/Users/htk/Documents/Unreal Projects/Blockout/Content/StarterContent/Materials/pickup.uasset",
+				"C:/Users/htk/Documents/Unreal Projects/Blockout/Content/StarterContent/Materials/Trap.uasset",
+				"C:/Users/htk/Documents/Unreal Projects/Blockout/Content/StarterContent/Materials/Trap2.uasset"
+			]
+		}
+	]
+}
